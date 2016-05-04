@@ -37,3 +37,5 @@ public class Dice1{
 	int index;
 	private int history[] = new int[size];
 }
+
+// Good job...now let's see if you can implement toString ...also, move the member variables up to top
